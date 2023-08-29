@@ -1,0 +1,25 @@
+{
+  "name": "centro-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "php": "^1.0.2",
+    "stable": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DARIONZITA/centro-up.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DARIONZITA/centro-up/issues"
+  },
+  "homepage": "https://github.com/DARIONZITA/centro-up#readme"
+}
